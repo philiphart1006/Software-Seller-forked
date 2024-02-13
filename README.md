@@ -126,9 +126,6 @@ I also created a basic entity relationship diagram in LucidChart to show the str
 
 
 
-### Research
-
-
 ### Project management
 
 Once again using a template Trello board, we split the application functionality and coding into separate _user stories_. User stories were split into front and back end build requirements. This helped us pseudocode & split out functionality into different components as well as easily assign & track who was working on what.
